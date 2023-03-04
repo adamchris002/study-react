@@ -1,0 +1,21 @@
+.input {
+    font-size: 14px;
+    border-radius: 20px;
+    background-color: rgb(241, 239, 239);
+    height: 30px;
+    border-width: 0px;
+    text-align: right;
+    padding-right: 15px;
+  }
+  
+  .small {
+    width: 80px;
+  }
+  
+  .medium {
+    width: 120px;
+  }
+  
+  .large {
+    width: 200px;
+  }
